@@ -43,7 +43,7 @@ Collaborate on real projects
 
 📬 Connect With Us
 
-💬 Discord: (https://discord.gg/C6cXBmFmEx)
+💬 Discord: https://discord.gg/C6cXBmFmEx
 
 🌐 Website: https://games-of-ayaan.github.io/Gigs-hub/
 
