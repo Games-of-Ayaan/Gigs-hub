@@ -6,7 +6,7 @@
 Gigs Hub is a community-driven space for freelancers to connect, share opportunities, and grow together.
 This website is a simple gateway to join our Discord community and register as a freelancer to start getting noticed.
 
-🌐 Live Site: https://yourusername.github.io/gigs-hub
+🌐 Live Site: https://games-of-ayaan.github.io/Gigs-hub/
 
 🌟 About Gigs Hub
 
@@ -43,9 +43,9 @@ Collaborate on real projects
 
 📬 Connect With Us
 
-💬 Discord: [Join Here](https://discord.gg/C6cXBmFmEx)
+💬 Discord: (https://discord.gg/C6cXBmFmEx)
 
-🌐 Website: https://yourusername.github.io/gigs-hub
+🌐 Website: https://games-of-ayaan.github.io/Gigs-hub/
 
 ❤️ Join the Movement
 
